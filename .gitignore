@@ -1,0 +1,6 @@
+deps/*/
+.idea/
+.vscode/
+.DS_Store
+bazel-*
+*.log
